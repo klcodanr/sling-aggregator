@@ -2,7 +2,7 @@
 
 This module is part of the [Apache Sling](https://sling.apache.org) project.
 
-It provides an XML file that lists all Sling modules, to allow for tools like `repo` to process multiple repositories at once.
+It provides a [list of repositories](docs/REPOSITORIES.md) and an XML file that lists all Sling modules, to allow for tools like `repo` to process multiple repositories at once.
 
 The list of modules is in a self-explaining format and can also be used in your own scripts if preferred.
 
